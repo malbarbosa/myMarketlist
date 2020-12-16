@@ -1,0 +1,12 @@
+{
+  "name": "myMarketlist",
+  "displayName": "myMarketlist",
+  "expo": {
+    "name": "myMarketlist",
+    "slug": "myMarketlist",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
